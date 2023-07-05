@@ -2,6 +2,7 @@ import os, requests, threading, time
 user_ids = []
 white = "\x1b[0m"
 pink = "\x1b[38;5;218m"
+Yes, this is skidded
 
 def Main():
     os.system(f'title [Auditor] By LockersR & mode 80,24 &')
